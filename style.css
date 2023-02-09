@@ -110,14 +110,17 @@ li >img{
   text-decoration: none;
   list-style-type: none;
   color: white;
+  padding-bottom: 40px;
+  margin-top: 20px;
   
 }
 .list{
-  margin-right: 30px;
+  margin-right: 40px;
   padding-left: 15px;
 }
 .list >li{
   list-style-type: none;
+  margin:10px 0;
   
 }
 .list >li >a{
